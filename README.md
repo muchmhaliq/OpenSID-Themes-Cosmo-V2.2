@@ -1,21 +1,20 @@
-# Tema Cosmo
-[![GitHub release](https://img.shields.io/github/release/dikisiswanto/cosmo.svg)](#!)
-[![GitHub](https://img.shields.io/github/license/dikisiswanto/cosmo.svg)](#!)
+# Tema Cosmo V2.2
 
-<img src="https://i.ibb.co/MNdw81Z/cosmo.png" alt="cosmo" border="0" width="100%" height="auto">
 
-**Cosmo** ([https://github.com/dikisiswanto/cosmo/](https://github.com/dikisiswanto/cosmo/)) adalah tema atau tampilan modul web dari aplikasi OpenSID yang minimalis dan responsif. Tema **cosmo** adalah hasil *rebranding* sekaligus penerus dari tema Cosmos.
+![Screenshot_2021-05-16 Desa Balongsari](https://user-images.githubusercontent.com/75825300/118416042-e61fce00-b6d7-11eb-91b9-ee261a17551a.png)
+
+**Cosmo V2.2** ([https://github.com/teguhsaint/OpenSID-Themes-Cosmo-V2.2](https://github.com/teguhsaint/OpenSID-Themes-Cosmo-V2.2)) adalah tema re design dari Tema Cosmo sebelumnya ([Karya Abang Diki Kriswanto](https://github.com/dikisiswanto/cosmo)). Cosmo V2.2 ini juga memiliki tampilan modul web dari aplikasi OpenSID yang minimalis dan responsif. Tema **cosmo v2.2** adalah hasil *redesign* sekaligus penerus dari tema Cosmo V2.1
 
 ## Instalasi
 
-1. Rilis terbaru dapat diunduh dari laman **releases** di [https://github.com/dikisiswanto/cosmo/releases](https://github.com/dikisiswanto/cosmo/releases). Pilih rilis yang dibutuhkan dan unduh *source* dengan tipe berkas yang diinginkan.
+1. Rilis terbaru dapat diunduh dari laman **releases** di [https://github.com/teguhsaint/OpenSID-Themes-Cosmo-V2.2/releases/](https://github.com/teguhsaint/OpenSID-Themes-Cosmo-V2.2/releases/). Pilih rilis yang dibutuhkan dan unduh *source* dengan tipe berkas yang diinginkan.
 2. Selanjutnya *extract* berkas yang telah diunduh dan salin semua isi dari folder hasil *extract* ke dalam folder `desa/themes/` di aplikasi OpenSID. Pastikan membuat dan memberi nama folder `cosmo` sebagai penampung isi berkas tema.
 3. [Setting aplikasi OpenSID](https://github.com/OpenSID/OpenSID/wiki/Panduan-Konfigurasi-Aplikasi#setting-aplikasi) dan pilih tema `desa/cosmo` untuk [web_theme](https://github.com/OpenSID/OpenSID/wiki/Panduan-Konfigurasi-Aplikasi#setting-web_theme).
 4. Muat ulang laman web dari aplikasi OpenSID untuk melihat perubahannya.
 
 ## Kontribusi
 
-Jika menemukan masalah atau *bug* pada tema `cosmo` silakan buat *issue* melalui laman [Issues](https://github.com/dikisiswanto/cosmo/issues) dan ceritakan masalah atau *bug* yang ditemukan. Jika Anda bersedia membantu memperbaiki issue yang ada silakan lakukan [Pull Request](https://github.com/dikisiswanto/cosmo/pulls).
+Jika menemukan masalah atau *bug* pada tema `cosmo` silakan buat *issue* melalui laman [Issues](https://github.com/teguhsaint/OpenSID-Themes-Cosmo-V2.2/issues) dan ceritakan masalah atau *bug* yang ditemukan. Jika Anda bersedia membantu memperbaiki issue yang ada silakan lakukan.
 
 ## Bantuan
 
@@ -24,7 +23,3 @@ Silakan bergabung dengan [Forum Pengguna dan Pegiat OpenSID](https://www.faceboo
 ## Epilog
 
 Jika repository ini dirasa bermanfaat, mohon kesediaannya memberi bintang ⭐
-
-## Tema OpenSID Lainnya
-
-<a href="https://silirdev.com/2021/04/tema-silir-tema-premium-untuk-website-desa-opensid/" target="_blank" rel="noopener noreferrer" ><img src="https://silirdev.com/wp-content/uploads/2021/04/tema-silir-post.png" alt="tema premium opensid, tema silir"/></a>
